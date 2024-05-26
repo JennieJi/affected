@@ -38,7 +38,7 @@
   "license": "MIT",
   "dependencies": {
     "commander": "^4.1.0",
-    "glob": "^7.1.4",
+    "glob": "^9.0.0",
     "hunt-affected": "^1.0.0-alpha.3"
   },
   "gitHead": "1dbe4f90a735c6ec5d99f8e0c6ed58ee770cae85"
